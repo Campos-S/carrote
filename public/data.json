@@ -1,0 +1,34 @@
+[
+    {
+        "id": 1,
+        "name": "Croissant",
+        "author": "Panaderia Campos",
+        "price": 30,
+        "img": "https://img.freepik.com/foto-gratis/croissants-franceses-frescos-sobre-mantel_144627-4434.jpg?w=360&t=st=1715146268~exp=1715146868~hmac=fead0da490f108ea65c2e756a8836b297efdacefedfd03c4ae9ff5bb74c30b4c",
+        "quantity": 1
+    },
+    {
+        "id": 2,
+        "name": "Canasta de Sour Dough",
+        "author": "Panaderia Campos",
+        "price": 180,
+        "img": "https://img.freepik.com/foto-gratis/cesta-panes-superficie-negra_141793-1418.jpg?w=360&t=st=1715146554~exp=1715147154~hmac=8c8c1abf4b1ad7de6be05548cf09969cbf4d70bbfea629bcfda7f737dd3d8228",
+        "quantity": 1
+    },
+    {
+        "id": 3,
+        "name": "Pan de muerto",
+        "author": "Panaderia Campos",
+        "price": 35,
+        "img": "https://img.freepik.com/foto-gratis/arreglo-tradicional-pan-muerto_23-2148930847.jpg?w=360&t=st=1715146861~exp=1715147461~hmac=dc13ec3a86d69474dc34aaf3cb132cee1c2218c3086c9ea3fcd03c9f3821a73e",
+        "quantity": 1
+    },
+    {
+        "id": 4,
+        "name": "Surtido de pan dulce",
+        "author": "Panaderia Campos",
+        "price": 200,
+        "img": "https://img.freepik.com/fotos-premium/productos-harina-varios-tipos-cesta-mimbre-diferentes-tipos-pan-bollos-dulces-mesa-madera_372197-5053.jpg?w=360",
+        "quantity": 1
+    }
+]

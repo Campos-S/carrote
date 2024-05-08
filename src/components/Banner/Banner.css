@@ -1,0 +1,29 @@
+.banner {
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4),
+            rgba(0, 0, 0, 0.4)),
+        url('https://img.freepik.com/foto-gratis/diferentes-tipos-pan-base-harina-trigo_140725-5648.jpg?w=826&t=st=1715146683~exp=1715147283~hmac=95631cedc3b73c062eaf2451c109f6147bd8482411eb661dca7a07bb6270b04a');
+}
+
+.banner-container {
+    text-align: center;
+    padding: 15% 0;
+}
+
+.banner h1 {
+    margin: center;
+    color: white;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+    font-size: 62px;
+    font-weight: bold;
+}
+
+.banner p {
+    font-size: 30px;
+    color: white;
+    opacity: 0.7;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.2);
+}
